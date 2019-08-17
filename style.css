@@ -1,0 +1,60 @@
+.main
+{
+  width:1050px;height:1200px;position:relative;background:white;
+}
+.main1
+{
+  width:1050px;height:800px;position:relative;background:white;
+}
+.header
+{
+  width:1050px;height:100px;position:relative;background:linear-gradient(to bottom,#FF0000,#10c3bd);
+}
+.logo
+{
+  width:80px;height:80px;background:blue;position:relative;float:left;background:white;border-radius:10%;margin:10px;border:3px solid black;line-height:100px;font-family:arial;color:red;font-size:30px;font-weight:bold;
+}
+.ttl
+{
+  font-style:italic;width:650px;height:50px;position:relative;float:left;left:150px;line-height:50px;top:25px;font-family:arial;color:white;font-size:35px;font-weight:bold;
+}
+.mymenu
+{
+  width:1050px;height:60px;position:relative;background:#10c3bd;
+}
+
+.btn
+{
+float:right;font-family:arial;;font-size:14px;font-weight:bold;line-height:35px; right:30px;margin:10px;border-radius:5px; width:150px;height:35px;position:relative;background:linear-gradient(to bottom, #9DE6FB,#D2F2FB,#9DE6FB) ;
+}
+
+.slider
+{
+  width:1050px;height:auto;position:relative;background:'img/001.jpg';
+}
+.leftcont
+{
+ float:left;left:0px;top:20px;background:linear-gradient(to top,#FF0000,#10c3bd); width:310px;height:600px;position:relative;border:1px solid black;
+}
+.rightcont
+
+{
+ float:right;right:20px;top:20px;width:675px;height:auto;position:relative;border:1px solid white;
+padding:20px;
+}
+.content
+{
+ float:left;left:25px;top:20px; width:955px;height:500px;position:relative;border:1px solid #D3D3D3;
+padding:20px;
+}
+
+  .img
+  {
+    right:20px;top:20px;width:700px;height:auto;position:relative;border:1px solid white;
+  }
+
+
+.footer
+{
+  font-family:arial;color:#f08200;font-size:14px;font-weight:bold;line-height:60px;width:1050px;height:60px;position:absolute;background:black;bottom:0px;
+}
